@@ -74,7 +74,7 @@ Answers For Other Extra Functionalities -
 
 - Error handling ---- Use of Try Catch Blocks and also Some validations when accepting inputs from iser for  name so that he/she can enter only string for Name filtering functionality
 
-- How would you do this differently if you have 10k personnel? 100k? 10m? --- For this we can use Paging/Infine Scroll/Load More button for the table.. Load only 5 or 10 data rows using pagecount (i.e Data Shredding) and for next records we can do same API call using next pageCount.
+- How would you do this differently if you have 10k personnel? 100k? 10m? --- For this we can use Paging/Infine Scroll/Load More button for the table.. Load only 5 or 10 data rows using pagecount and for next records we can do same API call using next pageCount.
 
 
 
